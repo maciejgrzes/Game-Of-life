@@ -1,6 +1,7 @@
-For simplicity I added the compiled .exe into the repo so you don't have to worry about compiling it but you still need SDL installed.
+To run you need to compile any C compiler that is compatible with SDL3 will work,
+make sure you include the SDL3 flag when compiling -lSDL3 than simply run the executable :3
 
-Once you run the .exe you can draw in the cells with LMB and erase with RMB,
+You can draw in the cells with LMB and erase with RMB,
 Start and pause the simulation with SPACE,
 BACKSPACE to erace the board,
 And also ESCAPE to close the window,
