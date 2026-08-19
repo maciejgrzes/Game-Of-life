@@ -1,1 +1,8 @@
-gol
+game_of_life
+logs/app.log
+test_logic
+test_io
+test_ui
+build/
+tests/tmp_save.gol
+compile_flags.txt
